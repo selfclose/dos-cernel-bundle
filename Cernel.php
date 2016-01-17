@@ -59,7 +59,7 @@ class Cernel extends Kernel
             new \DoS\SMSBundle\DoSSMSBundle(),
             new \Misd\PhoneNumberBundle\MisdPhoneNumberBundle(),
 
-            new \Sylius\Bundle\PricingBundle\SyliusPricingBundle(),
+            new \Sylius\Bundle\MoneyBundle\SyliusMoneyBundle(),
             new \Sylius\Bundle\ContentBundle\SyliusContentBundle(),
             new \Sylius\Bundle\MediaBundle\SyliusMediaBundle(),
             new \Sylius\Bundle\ResourceBundle\SyliusResourceBundle(),
